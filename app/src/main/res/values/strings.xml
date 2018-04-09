@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="search_hint">Enter search string</string>
+    <string name="publisher">Publisher :</string>
+    <string name="language">Language :</string>
+</resources>

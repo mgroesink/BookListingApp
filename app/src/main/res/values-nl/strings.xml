@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boeken</string>
+    <string name="search_hint">Geef zoektekst</string>
+    <string name="pub">Uitgever :</string>
+    <string name="language">Taal :</string>
+</resources>

@@ -3,4 +3,5 @@
     <string name="search_hint">Enter search string</string>
     <string name="publisher">Publisher :</string>
     <string name="language">Language :</string>
+    <string name="search">Search</string>
 </resources>
